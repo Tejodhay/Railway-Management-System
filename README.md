@@ -43,3 +43,9 @@ from the passenger and corresponding record is searched in the Passenger. If the
 record exists, it is deleted. After deleting the record (if it is confirmed), first record
 with waiting status for the same train and same category are searched from the
 Passenger table and its status is changed to confirm.
+
+Tables
+![image](https://github.com/user-attachments/assets/2bd78926-2dbb-40a4-bfb1-9cc1e29f4cbe)
+
+ER Diagram
+![image](https://github.com/user-attachments/assets/921fcaa7-3687-4f18-b935-aa5eaf6fc81c)
